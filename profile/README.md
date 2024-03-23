@@ -19,8 +19,8 @@
 [![Bot@Boosty](https://img.shields.io/badge/Bot@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](https://boosty.to/@aomi)
 
 ## Дизайн создается при помощи:
-![Krita](https://img.shields.io/badge/Krita-%x.svg?style=flat&logo=Krita&logoColor=white)
-![Procreate](https://img.shields.io/badge/Procreate-%x.svg?style=flat&logo=Procreate&logoColor=white)
+![Krita](https://img.shields.io/badge/Krita-c947b4.svg?style=flat&logo=Krita&logoColor=white)
+![Procreate](https://img.shields.io/badge/ProCreate-c947b4.svg?style=flat&logo=Procreate&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
