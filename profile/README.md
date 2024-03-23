@@ -12,9 +12,10 @@
 [![Bot@Boosty](https://img.shields.io/badge/Bot@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](tiktok.com/@aomi)
 
 ## Дизайн создается при помощи:
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=flat&logo=Adobe%20After%20Effects&logoColor=white)
 
 ## Разработка:
 - Среда разработки
@@ -53,7 +54,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-<p align="right">
+<!-- <p align="right">
 	<img src="https://komarev.com/ghpvc/?username=Discord-Aomi&style=plastic&label=Views"/>
 	<img src="https://badges.pufler.dev/visits/Discord-Aomi/Discord-Aomi?color=black&logo=github"/>
-</p>
+</p> -->
