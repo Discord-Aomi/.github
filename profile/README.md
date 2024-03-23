@@ -53,7 +53,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-<!-- <p align="right">
+<p align="right">
 	<img src="https://komarev.com/ghpvc/?username=Discord-Aomi&style=plastic&label=Views"/>
 	<img src="https://badges.pufler.dev/visits/Discord-Aomi/Discord-Aomi?color=black&logo=github"/>
-</p> -->
+</p>
