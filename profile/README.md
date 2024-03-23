@@ -1,7 +1,7 @@
 ![Server Banner](https://raw.githubusercontent.com/Discord-Aomi/.github/master/assets/server-banner.png)
 
-> **Привет!** Мы - крупный Discord сервер `Aomi`, который создан для общения и развлечения! Наша главная цель - обеспечить ваш уют и комфортное времяпрепровождение.</br>
-Сегодня, `23.03.2024`, мы решили создать организацию на `GitHub`, чтобы вы могли следить за изменениями и участвовать в разработке наших проектов.</br></br>
+> **Привет!** Мы - крупный Discord сервер **Aomi**, который создан для общения и развлечения! Наша главная цель - обеспечить ваш уют и комфортное времяпрепровождение.</br>
+Сегодня, **23.03.2024**, мы решили создать организацию на **GitHub**, чтобы вы могли следить за изменениями и участвовать в разработке наших проектов.</br></br>
 В нашей организации вы найдете различные проекты, которые мы разрабатываем для вас. Увы, некоторые из них закрыты для публичного доступа, например, наши основные боты, но благодаря открытым репозиториям, которые сделаны специально для них, вы сможете узнать больше о том, как они работают, и даже внести свой вклад в их развитие.</br>
 Если вы нашли ошибку или хотите предложить свою идею, пожалуйста, создайте [Issue](url) или [Pull Request](url) в соответствующем репозитории. Мы будем рады вашей помощи!</br></br>
 Если у вас есть вопросы или предложения, пожалуйста, обращайтесь к [нашему разработчику](url) или нашей самой красивой [владелице](url). Мы всегда рады помощи!</br></br>
@@ -9,16 +9,18 @@
 
 ## Наши социальные сети:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/aomi)
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=white)](https://tiktok.com/@discord_aomi)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@NastyaLuw)
 [![Twitter Badge](https://img.shields.io/badge/-@Zaykakisu-1ca0f1?style=flat&labelColor=1ca0f1&logo=X&logoColor=white&link=https://twitter.com/Zaykakisu)](https://twitter.com/Zaykakisu)
-[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=white)](https://tiktok.com/@discord_aomi)
 
 ## Поддержать:
-[![Owner@Boosty](https://img.shields.io/badge/Owner@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](tiktok.com/@aomibot)
-[![Dev@Boosty](https://img.shields.io/badge/Dev@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](tiktok.com/@nastyalove)
-[![Bot@Boosty](https://img.shields.io/badge/Bot@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](tiktok.com/@aomi)
+[![Owner@Boosty](https://img.shields.io/badge/Owner@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](https://boosty.to/@aomibot)
+[![Dev@Boosty](https://img.shields.io/badge/Dev@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](https://boosty.to/@nastyalove)
+[![Bot@Boosty](https://img.shields.io/badge/Bot@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](https://boosty.to/@aomi)
 
 ## Дизайн создается при помощи:
+![Krita](https://img.shields.io/badge/Krita-%x.svg?style=flat&logo=Krita&logoColor=white)
+![Procreate](https://img.shields.io/badge/Procreate-%x.svg?style=flat&logo=Procreate&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat&logo=adobe%20photoshop&logoColor=white)
 ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat&logo=Adobe%20Premiere%20Pro&logoColor=white)
