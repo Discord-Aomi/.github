@@ -3,7 +3,7 @@
 ## Наши социальные сети:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/aomi)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@NastyaLuw)
-[![Twitter Badge](https://img.shields.io/badge/-@Zaykakisu-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Zaykakisu)](https://twitter.com/Zaykakisu)
+[![Twitter Badge](https://img.shields.io/badge/-@Zaykakisu-1ca0f1?style=flat&labelColor=1ca0f1&logo=X&logoColor=white&link=https://twitter.com/Zaykakisu)](https://twitter.com/Zaykakisu)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat&logo=TikTok&logoColor=white)](https://tiktok.com/@discord_aomi)
 
 ## Поддержать:
@@ -53,7 +53,7 @@
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=flat&logo=debian&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 
-<p align="right">
-<img src="https://komarev.com/ghpvc/?username=Discord-Aomi&style=plastic&label=Views"/>
-<img src="https://badges.pufler.dev/visits/Discord-Aomi/Discord-Aomi?color=black&logo=github"/>
-</p>
+<!-- <p align="right">
+	<img src="https://komarev.com/ghpvc/?username=Discord-Aomi&style=plastic&label=Views"/>
+	<img src="https://badges.pufler.dev/visits/Discord-Aomi/Discord-Aomi?color=black&logo=github"/>
+</p> -->
