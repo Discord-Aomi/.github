@@ -1,4 +1,4 @@
-[![Server Banner](../assets/server-banner.png)](https://discord.gg/aomi)
+![Server Banner](https://raw.githubusercontent.com/Discord-Aomi/.github/master/assets/server-banner.png)
 
 ## Наши социальные сети:
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white)](https://discord.gg/aomi)
