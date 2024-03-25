@@ -14,9 +14,9 @@
 [![Twitter Badge](https://img.shields.io/badge/-@Zaykakisu-1ca0f1?style=flat&labelColor=1ca0f1&logo=X&logoColor=white&link=https://twitter.com/Zaykakisu)](https://twitter.com/Zaykakisu)
 
 ## Поддержать:
-[![Owner@Boosty](https://img.shields.io/badge/Owner@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](https://boosty.to/@aomibot)
-[![Dev@Boosty](https://img.shields.io/badge/Dev@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](https://boosty.to/@nastyalove)
-[![Bot@Boosty](https://img.shields.io/badge/Bot@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](https://boosty.to/@aomi)
+[![Owner@Boosty](https://img.shields.io/badge/Owner@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](https://boosty.to/aomibot)
+[![Dev@Boosty](https://img.shields.io/badge/Dev@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](https://boosty.to/nastyalove)
+[![Bot@Boosty](https://img.shields.io/badge/Bot@Boosty-%23F24E1E.svg?style=flat&logo=Boosty&logoColor=white)](https://boosty.to/aomi)
 
 ## Дизайн создается при помощи:
 ![Krita](https://img.shields.io/badge/Krita-c947b4.svg?style=flat&logo=Krita&logoColor=white)
