@@ -1,4 +1,4 @@
-![Server Banner](https://raw.githubusercontent.com/Discord-Aomi/.github/master/assets/server-banner.png)
+[![Server Banner](https://raw.githubusercontent.com/Discord-Aomi/.github/master/assets/server-banner.png)](https://discord.gg/aomi)
 
 > **Привет!** Мы - крупный Discord сервер **Aomi**, который создан для общения и развлечения! Наша главная цель - обеспечить ваш уют и комфортное времяпрепровождение.</br>
 Сегодня, **23.03.2024**, мы решили создать организацию на **GitHub**, чтобы вы могли следить за изменениями и участвовать в разработке наших проектов.</br></br>
